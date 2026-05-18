@@ -1,4 +1,4 @@
-* [Click Here](https://github.com/DEFCON-Web/Longtail-Keyword-Research-WP-Plugin/releases/download/v1.0.1/longtail-keyword-research.zip) to download the plugin first.
+* [Click Here](https://github.com/DEFCON-Web/Longtail-Keyword-Research-WP-Plugin/releases/download/v1.0.2/longtail-keyword-research.zip) to download the plugin first.
 * Inside your wordpress admin dashboard, click on **Plugins**, then click on **Add Plugin**.
 * On top of the page, click on **Upload Plugin** button.
 * Click the **Choose File** button and select the plugin zip file you downloaded and click **Install Now**.
